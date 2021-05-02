@@ -1,0 +1,2 @@
+Person with mask
+Person with no mask
