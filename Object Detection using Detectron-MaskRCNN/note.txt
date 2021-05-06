@@ -1,0 +1,3 @@
+labelmetococo.py file to convert single annotation file for all images
+
+code: python labelme2coco.py images --output single.json
